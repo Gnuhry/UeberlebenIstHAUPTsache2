@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.win7.ueberlebenisthauptsache.Menue">
+    <RelativeLayout
+        android:background="@drawable/menue"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+      <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    <TableLayout
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TableRow>
+            <Button android:id="@+id/btnLevel1" android:text="@string/Level1"/>
+            <Button android:id="@+id/btnLevel2" android:text="@string/Level2"/>
+            <Button android:id="@+id/btnLevel3" android:text="@string/Level3"/>
+            <Button android:id="@+id/btnLevel4" android:text="@string/Level4"/>
+        </TableRow>
+        <TableRow>
+            <TextView android:id="@+id/txVLevel1"/>
+            <TextView android:id="@+id/txVLevel2"/>
+            <TextView android:id="@+id/txVLevel3"/>
+            <TextView android:id="@+id/txVLevel4"/>
+        </TableRow>
+        <TableRow>
+            <Button android:id="@+id/btnLevel5" android:text="@string/Level5"/>
+            <Button android:id="@+id/btnLevel6" android:text="@string/Level6"/>
+            <Button android:id="@+id/btnLevel7" android:text="@string/Level7"/>
+            <Button android:id="@+id/btnLevel8" android:text="@string/Level8"/>
+        </TableRow>
+        <TableRow>
+            <TextView android:id="@+id/txVLevel5"/>
+            <TextView android:id="@+id/txVLevel6"/>
+            <TextView android:id="@+id/txVLevel7"/>
+            <TextView android:id="@+id/txVLevel8"/>
+        </TableRow>
+        <TableRow>
+            <Button android:id="@+id/btnLevel9" android:text="@string/Level9"/>
+            <Button android:id="@+id/btnLevel10" android:text="@string/Level10"/>
+            <Button android:id="@+id/btnLevel11" android:text="@string/Level11"/>
+            <Button android:id="@+id/btnLevel12" android:text="@string/Level12"/>
+        </TableRow>
+        <TableRow>
+            <TextView android:id="@+id/txVLevel9"/>
+            <TextView android:id="@+id/txVLevel10"/>
+            <TextView android:id="@+id/txVLevel11"/>
+            <TextView android:id="@+id/txVLevel12"/>
+        </TableRow>
+        <TableRow>
+            <Button android:id="@+id/btnLevel13" android:text="@string/Level13"/>
+            <Button android:id="@+id/btnLevel14" android:text="@string/Level14"/>
+            <Button android:id="@+id/btnLevel15" android:text="@string/Level15"/>
+            <Button android:id="@+id/btnLevel16" android:text="@string/Level16"/>
+        </TableRow>
+        <TableRow>
+            <TextView android:id="@+id/txVLevel13"/>
+            <TextView android:id="@+id/txVLevel14"/>
+            <TextView android:id="@+id/txVLevel15"/>
+            <TextView android:id="@+id/txVLevel16"/>
+        </TableRow>
+    </TableLayout>
+    </RelativeLayout>
+    <include layout="@layout/app_bar" android:id="@id/appbar" android:visibility="gone"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/raus"
+        android:src="@drawable/leftapp"
+        android:contentDescription="@string/toolbar_raus"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:clickable="true"/>
+</RelativeLayout>

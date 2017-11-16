@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+tools:context = "com.example.win7.ueberlebenisthauptsache.Level5" >
+ <RelativeLayout
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:layout_above="@+id/Steuerung"
+android:background="@drawable/mauer5">
+<ImageView
+ android:id="@+id/Weg0"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="20px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg1"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="92px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg2"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="130px"
+android:layout_marginStart="130px"
+android:layout_marginTop="164px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg3"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="185px"
+android:layout_marginStart="185px"
+android:layout_marginTop="164px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg4"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="164px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg5"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="295px"
+android:layout_marginStart="295px"
+android:layout_marginTop="164px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg6"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="350px"
+android:layout_marginStart="350px"
+android:layout_marginTop="164px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg7"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="236px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg8"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="130px"
+android:layout_marginStart="130px"
+android:layout_marginTop="308px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg9"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="185px"
+android:layout_marginStart="185px"
+android:layout_marginTop="308px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg10"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="308px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg11"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="295px"
+android:layout_marginStart="295px"
+android:layout_marginTop="308px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg12"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="350px"
+android:layout_marginStart="350px"
+android:layout_marginTop="308px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg13"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="380px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg14"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="130px"
+android:layout_marginStart="130px"
+android:layout_marginTop="452px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg15"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="185px"
+android:layout_marginStart="185px"
+android:layout_marginTop="452px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg16"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="452px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg17"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="295px"
+android:layout_marginStart="295px"
+android:layout_marginTop="452px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg18"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="350px"
+android:layout_marginStart="350px"
+android:layout_marginTop="452px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg19"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="524px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg20"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="130px"
+android:layout_marginStart="130px"
+android:layout_marginTop="596px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg21"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="185px"
+android:layout_marginStart="185px"
+android:layout_marginTop="596px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg22"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="596px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg23"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="295px"
+android:layout_marginStart="295px"
+android:layout_marginTop="596px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg24"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="350px"
+android:layout_marginStart="350px"
+android:layout_marginTop="596px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/Weg25"
+ android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="668px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg5"/>
+<ImageView
+ android:id="@+id/NPC0"
+android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="350px"
+android:layout_marginStart="350px"
+android:layout_marginTop="308px"
+android:contentDescription="@string/NPC"
+android:src="@drawable/npc_front"/>
+<ImageView
+ android:id="@+id/NPC1"
+android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="185px"
+android:layout_marginStart="185px"
+android:layout_marginTop="452px"
+android:contentDescription="@string/NPC"
+android:src="@drawable/npc_front"/>
+<ImageView
+ android:id="@+id/NPC2"
+android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="295px"
+android:layout_marginStart="295px"
+android:layout_marginTop="452px"
+android:contentDescription="@string/NPC"
+android:src="@drawable/npc_front"/>
+<ImageView
+ android:id="@+id/NPC3"
+android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="350px"
+android:layout_marginStart="350px"
+android:layout_marginTop="596px"
+android:contentDescription="@string/NPC"
+android:src="@drawable/npc_front"/>
+<ImageView
+ android:id="@+id/Sword"
+android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="130px"
+android:layout_marginStart="130px"
+android:layout_marginTop="452px"
+android:contentDescription="@string/Sword"
+android:src="@drawable/sword"/>
+<ImageView
+ android:id="@+id/Shild"
+android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="130px"
+android:layout_marginStart="130px"
+android:layout_marginTop="164px"
+android:contentDescription="@string/Shild"
+android:src="@drawable/shild"/>
+<ImageView
+ android:id="@+id/Door"
+android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="20px"
+android:contentDescription="@string/Ziel"
+android:src="@drawable/door_closed"/>
+<ImageView
+ android:id="@+id/Figur"
+android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="668px"
+android:contentDescription="@string/Figur"
+android:src="@drawable/figur_front"/>
+<ImageView
+ android:id="@+id/Key"
+android:layout_width="55px"
+ android:layout_height="72px"
+ android:layout_marginLeft="350px"
+android:layout_marginStart="350px"
+android:layout_marginTop="452px"
+android:contentDescription="@string/Key"
+android:src="@drawable/key"/>
+</RelativeLayout>
+    <include layout="@layout/fragment_steuerung"
+        android:id="@+id/Steuerung"
+        android:visibility="gone"/>
+    <ImageView
+        android:id="@+id/imVUp"
+        android:contentDescription="@string/SteuerungHoch"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/ic_arrow_drop_up_white_24dp"/>
+    <include layout="@layout/app_bar"
+        android:id="@+id/appbar"
+        android:visibility="invisible"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/raus"
+        android:src="@drawable/leftapp"
+        android:contentDescription="@string/toolbar_raus"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:clickable="true"/>
+</RelativeLayout>
+
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:id="@+id/LLCredits"
+    android:background="@drawable/credits"
+    tools:context="com.example.win7.ueberlebenisthauptsache.Credits">
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:text="@string/Credits"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_gravity="center"
+        android:layout_marginTop="250dp"
+        android:textStyle="bold"
+        android:text="@string/CreditsMusik"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/CreditsMusic1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/CreditsMusic2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/CreditsMusik3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/CreditsMusik4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

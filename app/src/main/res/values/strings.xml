@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">UeberlebenIstHauptsache</string>
+    <string name="SteuerungRunter">Steuerung verstecken</string>
+    <string name="KeyAnzeige">Key Anzeige</string>
+    <string name="SteuerungHoch">Steurung hoch</string>
+    <string name="Weg">Weg</string>
+    <string name="NPC">NPC</string>
+    <string name="Sword">Schwert</string>
+    <string name="Ziel">Ziel</string>
+    <string name="Figur">Figur</string>
+    <string name="setting">Setting</string>
+    <string name="musik">Musik</string>
+    <string name="sound">Sound</string>
+    <string name="reset">Reset</string>
+    <string name="back_menue">Zurück zu Menü</string>
+    <string name="hint">Hint</string>
+    <string name="weg">Weg</string>
+    <string name="toolbar_raus">Toolbar raus</string>
+    <string name="resetWarnung">Möchten Sie wirklich Reseten?</string>
+    <string name="E0">Erklärung/Hilfe</string>
+    <string name="E1">Willkommen beim Spiel "Überleben ist Hauptsache"</string>
+    <string name="E2">Im folgenden wird Dir erklärt wie man das Spiel spielt. Steurung funktioniert per Swipe oder Buttons.</string>
+    <string name="E3">Ziel ist es den Schlüssel aufzusammeln und durch das Tor zu gehen</string>
+    <string name="E4">Wenn die Figur auf dem gleichen Feld wie der NPC ist, wird bei dem nächsten Schritt das Level zurückgestellt.</string>
+    <string name="E5">Bei gleichzeitigen wechseln von Figur und NPC wird das Level NICHT zurückgesetzt(Schleich Funktion)</string>
+    <string name="E6">Mit Waffen können die NPCs besiegt werden</string>
+    <string name="E7">Nach Aufsammeln des Schlüssel, öffnet sich die Tür</string>
+    <string name="E8">Sie müssen in die Tür eintreten und nicht auf dem Feld bleiben!</string>
+    <string name="E9">Viel Glück!!</string>
+    <string name="EB">Figur || NPC</string>
+    <string name="erklaerung">Erklärung</string>
+    <string name="Key">Key</string>
+    <string name="Level1">Level1</string>
+    <string name="Level2">Level2</string>
+    <string name="Level3">Level3</string>
+    <string name="Level4">Level4</string>
+    <string name="Level5">Level5</string>
+    <string name="Level6">Level6</string>
+    <string name="Level7">Level7</string>
+    <string name="Level8">Level8</string>
+    <string name="Level9">Level9</string>
+    <string name="Level10">Level10</string>
+    <string name="Level11">Level11</string>
+    <string name="Level12">Level12</string>
+    <string name="Level13">Level13</string>
+    <string name="Level14">Level14</string>
+    <string name="Level15">Level15</string>
+    <string name="Level16">Level16</string>
+    <string name="Credits">Designer   : Timon Noll \nProgrammer: Florian \nProgrammer: Hung Truong</string>
+    <string name="CreditsMusik">Songtitel – GEMAfreie Musik von</string>
+    <string name="CreditsMusic1">https://audeeyah.de \nLicensed under Creative Commons: \nBy Attribution 4.0 International (CC BY 4.0) \nhttp://creativecommons.org/licenses/by/4.0/ </string>
+    <string name="CreditsMusic2">Kevin MacLeod (incompetech.com) \nLicensed under Creative Commons: \nBy Attribution 3.0 License \nhttp://creativecommons.org/licenses/by/3.0/ </string>
+    <string name="CreditsMusik3">https://www.musicfox.com/</string>
+    <string name="CreditsMusik4">https://www.frametraxx.de/</string>
+    <string name="startbildschirm">Startbildschirm</string>
+    <string name="Shild">Schild</string>
+</resources>
+
+
+
+
+
+

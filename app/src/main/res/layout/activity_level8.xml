@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+tools:context = "com.example.win7.ueberlebenisthauptsache.Level8" >
+ <RelativeLayout
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:layout_above="@+id/Steuerung"
+android:background="@drawable/mauer8">
+<ImageView
+ android:id="@+id/Weg0"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="75px"
+android:layout_marginStart="75px"
+android:layout_marginTop="20px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg1"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="130px"
+android:layout_marginStart="130px"
+android:layout_marginTop="20px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg2"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="185px"
+android:layout_marginStart="185px"
+android:layout_marginTop="20px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg3"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="20px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg4"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="295px"
+android:layout_marginStart="295px"
+android:layout_marginTop="20px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg5"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="350px"
+android:layout_marginStart="350px"
+android:layout_marginTop="20px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg6"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="405px"
+android:layout_marginStart="405px"
+android:layout_marginTop="20px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg7"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="460px"
+android:layout_marginStart="460px"
+android:layout_marginTop="20px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg8"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="515px"
+android:layout_marginStart="515px"
+android:layout_marginTop="20px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg9"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="75px"
+android:layout_marginStart="75px"
+android:layout_marginTop="100px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg10"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="185px"
+android:layout_marginStart="185px"
+android:layout_marginTop="100px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg11"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="75px"
+android:layout_marginStart="75px"
+android:layout_marginTop="180px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg12"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="180px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg13"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="295px"
+android:layout_marginStart="295px"
+android:layout_marginTop="180px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg14"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="350px"
+android:layout_marginStart="350px"
+android:layout_marginTop="180px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg15"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="405px"
+android:layout_marginStart="405px"
+android:layout_marginTop="180px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg16"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="460px"
+android:layout_marginStart="460px"
+android:layout_marginTop="180px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg17"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="515px"
+android:layout_marginStart="515px"
+android:layout_marginTop="180px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg18"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="20px"
+android:layout_marginStart="20px"
+android:layout_marginTop="260px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg19"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="75px"
+android:layout_marginStart="75px"
+android:layout_marginTop="260px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg20"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="130px"
+android:layout_marginStart="130px"
+android:layout_marginTop="260px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg21"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="185px"
+android:layout_marginStart="185px"
+android:layout_marginTop="260px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg22"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="260px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg23"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="515px"
+android:layout_marginStart="515px"
+android:layout_marginTop="260px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg24"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="460px"
+android:layout_marginStart="460px"
+android:layout_marginTop="340px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg25"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="515px"
+android:layout_marginStart="515px"
+android:layout_marginTop="340px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg26"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="75px"
+android:layout_marginStart="75px"
+android:layout_marginTop="420px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg27"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="130px"
+android:layout_marginStart="130px"
+android:layout_marginTop="420px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg28"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="185px"
+android:layout_marginStart="185px"
+android:layout_marginTop="420px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg29"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="420px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg30"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="295px"
+android:layout_marginStart="295px"
+android:layout_marginTop="420px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg31"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="350px"
+android:layout_marginStart="350px"
+android:layout_marginTop="420px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg32"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="515px"
+android:layout_marginStart="515px"
+android:layout_marginTop="420px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg33"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="75px"
+android:layout_marginStart="75px"
+android:layout_marginTop="500px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg34"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="350px"
+android:layout_marginStart="350px"
+android:layout_marginTop="500px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg35"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="515px"
+android:layout_marginStart="515px"
+android:layout_marginTop="500px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg36"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="20px"
+android:layout_marginStart="20px"
+android:layout_marginTop="580px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg37"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="75px"
+android:layout_marginStart="75px"
+android:layout_marginTop="580px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg38"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="130px"
+android:layout_marginStart="130px"
+android:layout_marginTop="580px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg39"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="185px"
+android:layout_marginStart="185px"
+android:layout_marginTop="580px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg40"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="580px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg41"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="350px"
+android:layout_marginStart="350px"
+android:layout_marginTop="580px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg42"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="405px"
+android:layout_marginStart="405px"
+android:layout_marginTop="580px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg43"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="460px"
+android:layout_marginStart="460px"
+android:layout_marginTop="580px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg44"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="515px"
+android:layout_marginStart="515px"
+android:layout_marginTop="580px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg45"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="660px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg46"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="185px"
+android:layout_marginStart="185px"
+android:layout_marginTop="740px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg47"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="740px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg48"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="295px"
+android:layout_marginStart="295px"
+android:layout_marginTop="740px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg49"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="350px"
+android:layout_marginStart="350px"
+android:layout_marginTop="740px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg50"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="405px"
+android:layout_marginStart="405px"
+android:layout_marginTop="740px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg51"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="460px"
+android:layout_marginStart="460px"
+android:layout_marginTop="740px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/Weg52"
+ android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="515px"
+android:layout_marginStart="515px"
+android:layout_marginTop="740px"
+android:contentDescription="@string/Weg"
+android:src="@drawable/weg8"/>
+<ImageView
+ android:id="@+id/NPC0"
+android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="295px"
+android:layout_marginStart="295px"
+android:layout_marginTop="20px"
+android:contentDescription="@string/NPC"
+android:src="@drawable/npc_front"/>
+<ImageView
+ android:id="@+id/NPC1"
+android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="75px"
+android:layout_marginStart="75px"
+android:layout_marginTop="100px"
+android:contentDescription="@string/NPC"
+android:src="@drawable/npc_front"/>
+<ImageView
+ android:id="@+id/NPC2"
+android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="350px"
+android:layout_marginStart="350px"
+android:layout_marginTop="180px"
+android:contentDescription="@string/NPC"
+android:src="@drawable/npc_front"/>
+<ImageView
+ android:id="@+id/NPC3"
+android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="130px"
+android:layout_marginStart="130px"
+android:layout_marginTop="260px"
+android:contentDescription="@string/NPC"
+android:src="@drawable/npc_front"/>
+<ImageView
+ android:id="@+id/NPC4"
+android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="420px"
+android:contentDescription="@string/NPC"
+android:src="@drawable/npc_front"/>
+<ImageView
+ android:id="@+id/NPC5"
+android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="515px"
+android:layout_marginStart="515px"
+android:layout_marginTop="420px"
+android:contentDescription="@string/NPC"
+android:src="@drawable/npc_front"/>
+<ImageView
+ android:id="@+id/NPC6"
+android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="75px"
+android:layout_marginStart="75px"
+android:layout_marginTop="580px"
+android:contentDescription="@string/NPC"
+android:src="@drawable/npc_front"/>
+<ImageView
+ android:id="@+id/NPC7"
+android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="240px"
+android:layout_marginStart="240px"
+android:layout_marginTop="660px"
+android:contentDescription="@string/NPC"
+android:src="@drawable/npc_front"/>
+<ImageView
+ android:id="@+id/Shild"
+android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="460px"
+android:layout_marginStart="460px"
+android:layout_marginTop="740px"
+android:contentDescription="@string/Shild"
+android:src="@drawable/shild"/>
+<ImageView
+ android:id="@+id/Door"
+android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="515px"
+android:layout_marginStart="515px"
+android:layout_marginTop="20px"
+android:contentDescription="@string/Ziel"
+android:src="@drawable/door_closed"/>
+<ImageView
+ android:id="@+id/Figur"
+android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="515px"
+android:layout_marginStart="515px"
+android:layout_marginTop="740px"
+android:contentDescription="@string/Figur"
+android:src="@drawable/figur_front"/>
+<ImageView
+ android:id="@+id/Key"
+android:layout_width="55px"
+ android:layout_height="80px"
+ android:layout_marginLeft="350px"
+android:layout_marginStart="350px"
+android:layout_marginTop="500px"
+android:contentDescription="@string/Key"
+android:src="@drawable/key"/>
+</RelativeLayout>
+    <include layout="@layout/fragment_steuerung"
+        android:id="@+id/Steuerung"
+        android:visibility="gone"/>
+    <ImageView
+        android:id="@+id/imVUp"
+        android:contentDescription="@string/SteuerungHoch"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/ic_arrow_drop_up_white_24dp"/>
+    <include layout="@layout/app_bar"
+        android:id="@+id/appbar"
+        android:visibility="invisible"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/raus"
+        android:src="@drawable/leftapp"
+        android:contentDescription="@string/toolbar_raus"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:clickable="true"/>
+</RelativeLayout>
+
+
